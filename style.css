@@ -13,3 +13,11 @@
     font-family: 'Roboto', sans-serif;
     padding: 5px;
 }
+.bg-danger {
+    margin-top: 10px;
+}
+
+.bg-danger .fifth .shadow p {
+    text-shadow: 2px 2px 8px #FF0000;
+}
+

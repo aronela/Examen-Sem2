@@ -21,3 +21,10 @@
     text-shadow: 2px 2px 8px #FF0000;
 }
 
+.transition img {
+    transition: width 2s, height 2s, transform 2s;
+}
+
+.transition img:hover {
+    transform: rotate(180deg);
+}

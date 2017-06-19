@@ -1,0 +1,7 @@
+.navbar-header img {
+    padding: 8px;
+}
+
+.navbar-default {
+    background: linear-gradient(red, yellow);
+}
